@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jaison.joseph
+Build-Jdk: 11.0.2
+Implementation-Title: firstBoott
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.java4s
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/firstBoott/
+Created-By: Maven Integration for Eclipse
+
