@@ -13,6 +13,6 @@ public class SpringJava4sController {
 	
 	@RequestMapping("/hello")
 	public String myData() {
-		return "Hello Spring Boot";
+		return "Hello Spring Boot...";
 	}
 }
